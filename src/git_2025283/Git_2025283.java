@@ -4,6 +4,8 @@
  */
 package git_2025283;
 
+import java.util.Scanner;
+
 /**
  *
  * @author aramn
@@ -14,7 +16,8 @@ public class Git_2025283 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner myKB = new Scanner(System.in);
+        System.out.println("Arno - 2025283");
     }
     
 }
